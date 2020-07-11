@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KJhArXeOg3k/PVjAeR4orkheJVdc7Xm7a9kAi7cewi/Kkp2i1nQ4I3BFhFubFrPm22v3NRdc7fc6K5KFELoQ6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tormod\\source\\repos\\c-sharp-test\\CQRS-MediatR\\CQRSMediatR\\CQRSMediatR\\CQRSMediatR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tormod\\.nuget\\packages\\mediatr\\8.0.2\\mediatr.8.0.2.nupkg.sha512",
+    "C:\\Users\\Tormod\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.1\\mediatr.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Tormod\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

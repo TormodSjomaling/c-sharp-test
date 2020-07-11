@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WVif9QOyWYZvFB1ids6pRls5N8IhffInfEBpM0wBlJJi2mg9QRxgdS9QN0j1vxXnsmqWZgh8aE7iBB53oK8IQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tormod\\source\\repos\\c-sharp-test\\jsonAPI\\ConsoleApp2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tormod\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Tormod\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -2,6 +2,7 @@
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 
@@ -15,28 +16,36 @@ namespace ConsoleApp1
         {
             var url = "https://jsonplaceholder.typicode.com/todos/1";
             var url2 = "http://dummy.restapiexample.com/api/v1/employees";
+            var url3 = "https://fakestoreapi.com/products";
 
-            HttpResponseMessage response = await client.GetAsync(url2);
+            HttpResponseMessage response = await client.GetAsync(url3);
             response.EnsureSuccessStatusCode();
             string responseBody = await response.Content.ReadAsStringAsync();
 
             //Console.WriteLine(responseBody);
 
             dynamic deserializedResponse = JsonConvert.DeserializeObject(responseBody);
-            var listOfEmoplyeeData = deserializedResponse.data;
-
-            List<Employee> listOfEmployees = new List<Employee>();
-
-            foreach (var emoplyee in listOfEmoplyeeData)
+            //var listOfEmoplyeeData = deserializedResponse.data;
+            List<string> listOfProducts = new List<string>();
+            foreach (var v in deserializedResponse)
             {
-                Employee newEmployee = new Employee(emoplyee.id, emoplyee.employee_name, emoplyee.employee_salary, emoplyee.employee_age);
-                listOfEmployees.Add(newEmployee);
+                foreach(var x in v)
+                {
+                    Console.WriteLine(x);
+                }
             }
+            //List<Employee> listOfEmployees = new List<Employee>();
 
-           foreach (var item in listOfEmployees)
-            {
-                Console.WriteLine(item.employee_name + " " + item.employee_salary);
-            }
+            //foreach (var emoplyee in listOfEmoplyeeData)
+            //{
+            //    Employee newEmployee = new Employee(emoplyee.id, emoplyee.employee_name, emoplyee.employee_salary, emoplyee.employee_age);
+            //    listOfEmployees.Add(newEmployee);
+            //}
+            //
+           //foreach (var item in listOfEmployees)
+            //{
+            //    Console.WriteLine(item.employee_name + " " + item.employee_salary);
+            //}
 
 
             //Employee employee = new Employee();

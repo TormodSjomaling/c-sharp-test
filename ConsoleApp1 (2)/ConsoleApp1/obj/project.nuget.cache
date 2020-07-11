@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dg47apij6aft2EaNGJNaWHz+ysdREcWh7SkSoS+elvxo3RDYlBD4JfABTaK567a1eZdCQsb8bYpjOeEvr2j89A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tormod\\source\\repos\\c-sharp-test\\ConsoleApp1 (2)\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tormod\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

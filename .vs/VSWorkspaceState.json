@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleApp1 (2)\\ConsoleApp1",
+    "\\jsonAPI\\ConsoleApp1"
   ],
+  "SelectedNode": "\\CQRS-MediatR",
   "PreviewInSolutionExplorer": false
 }
