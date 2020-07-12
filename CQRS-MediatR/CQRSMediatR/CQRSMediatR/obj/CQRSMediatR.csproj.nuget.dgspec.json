@@ -50,6 +50,10 @@
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Neo4j.Driver": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             }
           },
           "imports": [

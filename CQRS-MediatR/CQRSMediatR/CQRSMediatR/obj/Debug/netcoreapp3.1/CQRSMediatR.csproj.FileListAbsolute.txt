@@ -16,8 +16,11 @@ C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\b
 C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\bin\Debug\netcoreapp3.1\CQRSMediatR.dll
 C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\bin\Debug\netcoreapp3.1\CQRSMediatR.pdb
 C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\obj\Debug\netcoreapp3.1\CQRSMediatR.csproj.CoreCompileInputs.cache
-C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\obj\Debug\netcoreapp3.1\CQRSMediatR.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\obj\Debug\netcoreapp3.1\CQRSMediatR.dll
 C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\obj\Debug\netcoreapp3.1\CQRSMediatR.pdb
 C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\obj\Debug\netcoreapp3.1\CQRSMediatR.genruntimeconfig.cache
+C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\bin\Debug\netcoreapp3.1\Neo4j.Driver.dll
+C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\obj\Debug\netcoreapp3.1\CQRSMediatR.csproj.CoreCompileInputs.cache
+C:\Users\Tormod\source\repos\c-sharp-test\CQRS-MediatR\CQRSMediatR\CQRSMediatR\obj\Debug\netcoreapp3.1\CQRSMediatR.MvcApplicationPartsAssemblyInfo.cache
